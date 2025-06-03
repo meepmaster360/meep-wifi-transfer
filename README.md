@@ -27,3 +27,21 @@ bash
 Copiar
 Editar
 ./mac-to-linux-wifi-transfer.sh user@linux-host
+
+🚀 COMO USAR (macOS/Linux/Windows)
+Coloca import-wifi-to-linux.sh no mesmo diretório.
+
+No Windows: Abre PowerShell e executa:
+
+powershell
+Copiar
+Editar
+.\export-and-send-wifi-windows.ps1 user@192.168.1.10
+No macOS ou Linux:
+
+bash
+Copiar
+Editar
+bash export-and-send-wifi-mac.sh user@192.168.1.10
+# ou
+bash export-and-send-wifi-linux.sh user@192.168.1.10
